@@ -9,3 +9,10 @@
 ### Hello there, welcome to my profile on Github. :octocat:
 Here you can see all my jobs with open source code. I am a Systems Analyst with 8+ years of professional experience, and I have a large experience with back-end technologies.
 
+##### Who am I
+
+
+##### I work with
+
+Today I'm a Software Engineer with a focus on Python, PHP and C# .NET...
+
