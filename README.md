@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Hiury Oliveira
+
+Fullstack Developer with 12 years of experience in web development, specializing in PHP. Passionate about creating innovative solutions and entrepreneurship. Based in Natal, Brazil, but building for the world. 🚀
 
 <!--
 **hiuryoliveira/hiuryoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🔧 Technologies & Tools
+
+
