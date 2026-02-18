@@ -6,8 +6,8 @@ I'm a software engineer with 12+ years of experience building scalable systems, 
 
 🏢 Software Engineer at [Tray E-commerce](https://tray.com.br/) <br/>
 🇧🇷 Based in Natal, Brazil <br/>
+⚙️ Specialized in backend systems, APIs, and scalable architectures <br/>
 🚀 Passionate about SaaS, e-commerce, and product engineering
-
 
 ### What I'm working on 👨‍💻
 
