@@ -1,7 +1,7 @@
 
 ### Hi, I'm Hiury Oliveira 👋
 
-I'm a software engineer with 12+ years of experience building scalable systems, digital products, and payment solutions.
+I'm a software engineer with 13+ years of experience building scalable systems, digital products, and payment solutions.
 
 
 🏢 Software Engineer at [Tray E-commerce](https://tray.com.br/) <br/>
